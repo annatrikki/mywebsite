@@ -1,0 +1,56 @@
+.flex
+{display: flex;
+justify-content: center;
+}
+
+.hero {
+    background-color: #DCF2F1 ;
+    color: #365486;
+}
+h1 {
+    color: #7FC7D9;
+    font-family: 'Caveat', cursive;
+font-family: 'IBM Plex Serif', serif;
+}
+.btn{ background-color: #DCF2F1;}
+
+body {
+    font-family: 'Caveat', cursive;
+font-family: 'IBM Plex Serif', serif;
+font-family: 'Nunito Sans', sans-serif;
+color: #DCF2F1;
+}
+
+h2 {
+    color: #365486;
+    font-family: 'Caveat', cursive;
+font-family: 'IBM Plex Serif', serif;
+}
+.projects
+{
+    background-color: #365486;
+}
+.row{
+    padding: 50px;
+}
+.interests{
+    
+    background-color: #DCF2F1;
+    color:#DCF2F1;
+}
+
+.col-sm-12{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.resume{
+    background-color: #0F1035;
+}
+.footer{
+    background-color: #0F1035;
+}
+.nav-link{
+    color: #DCF2F1;
+}
